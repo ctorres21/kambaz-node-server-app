@@ -1,0 +1,11 @@
+export default [
+  { "_id": "A101", "title": "Propulsion Assignment", "course": "RS101", "description": "Submit a link to your Web application.", "points": 100, "dueDate": "2024-05-13", "availableFrom": "2024-05-06", "availableUntil": "2024-05-20" },
+  { "_id": "A102", "title": "Combustion Analysis", "course": "RS101", "description": "Analyze combustion processes.", "points": 100, "dueDate": "2024-05-20", "availableFrom": "2024-05-13", "availableUntil": "2024-05-27" },
+  { "_id": "A103", "title": "Nozzle Design Project", "course": "RS101", "description": "Design a rocket engine nozzle.", "points": 100, "dueDate": "2024-05-27", "availableFrom": "2024-05-20", "availableUntil": "2024-06-03" },
+  { "_id": "A201", "title": "Aerodynamics Quiz", "course": "RS102", "description": "Quiz on aerodynamic fundamentals.", "points": 50, "dueDate": "2024-05-13", "availableFrom": "2024-05-06", "availableUntil": "2024-05-20" },
+  { "_id": "A202", "title": "Flow Analysis", "course": "RS102", "description": "Analyze flow patterns.", "points": 100, "dueDate": "2024-05-20", "availableFrom": "2024-05-13", "availableUntil": "2024-05-27" },
+  { "_id": "A203", "title": "Heating Analysis", "course": "RS102", "description": "Thermal analysis report.", "points": 100, "dueDate": "2024-05-27", "availableFrom": "2024-05-20", "availableUntil": "2024-06-03" },
+  { "_id": "A301", "title": "Structural Design Task", "course": "RS103", "description": "Design a structural component.", "points": 100, "dueDate": "2024-05-13", "availableFrom": "2024-05-06", "availableUntil": "2024-05-20" },
+  { "_id": "A302", "title": "Orbital Mechanics Problem Set", "course": "RS103", "description": "Solve orbital mechanics problems.", "points": 100, "dueDate": "2024-05-20", "availableFrom": "2024-05-13", "availableUntil": "2024-05-27" },
+  { "_id": "A303", "title": "Systems Engineering Report", "course": "RS103", "description": "Write a systems engineering report.", "points": 100, "dueDate": "2024-05-27", "availableFrom": "2024-05-20", "availableUntil": "2024-06-03" }
+];
